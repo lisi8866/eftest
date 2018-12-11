@@ -1,0 +1,11 @@
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.deps.json
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.runtimeconfig.json
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.runtimeconfig.dev.json
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.dll
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.csprojAssemblyReference.cache
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.csproj.CoreCompileInputs.cache
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.AssemblyInfoInputs.cache
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.AssemblyInfo.cs
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.pdb
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.dll
+E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.pdb

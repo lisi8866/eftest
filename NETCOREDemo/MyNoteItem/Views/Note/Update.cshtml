@@ -1,0 +1,30 @@
+﻿@model MyNoteItem.Models.Note
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <form method="post" action="/Note/Update">
+        <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+        标题：<input type="text" id="Title" name="Title" value="@Model.Title" />
+        <br />
+        <br />
+        内容:<input type="text" id="Content" name="Content" value="@Model.Content" />
+
+        <button type="submit" class="btn">保存</button> <button id="btnAdd" type="button" onclick="Cancel()">取消</button>
+    </form>
+</body>
+</html>
+<script>
+    function Cancel() {
+        window.location.href = "/Note/Index";
+    }
+
+</script>

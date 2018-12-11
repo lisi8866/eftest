@@ -1,0 +1,42 @@
+﻿
+@model List<MyNoteItem.Models.Note>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>这是一个.net core ,efcore 利用CodeFirst开发方式的入门小demo</h1>
+    <button id="btnAdd" type="button"  onclick="addModel()">添加</button>
+    
+    <table>
+        <tr><th style="width:50px;">编号</th><th style="width:50px;">标题</th><th style="width:50px;">内容</th><th style="width:100px;">操作</th></tr>
+    </table>
+    @foreach (var item in Model)
+    {
+        <table>
+            <tr>
+                <td style="width:50px;">@item.Id</td>
+                <td style="width:50px;">@item.Title</td>
+                <td style="width:50px;">@item.Content</td>
+                <td style="width:100px;"><a href="#" onclick="updateModel()" id="@item.Id">修改</a>|<a href="#"  onclick="deleteModel()" id="@item.Id">删除</a></td>
+            </tr>
+        </table>
+    }
+</body>
+</html>
+ <script>
+     function addModel() {
+           window.location.href = "/Note/Add";
+     }
+     function deleteModel() {
+         if (confirm("确定删除！")) {
+             window.location.href = "/Note/Delete?id=" + event.target.id;
+         }
+     }
+     function updateModel() {
+         window.location.href = "/Note/Update?id=" + event.target.id;
+     }
+ </script>
