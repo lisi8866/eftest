@@ -9,3 +9,14 @@ E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.Assem
 E:\NETCORE练习\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.pdb
 E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.dll
 E:\NETCORE练习\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.pdb
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.deps.json
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.runtimeconfig.json
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.runtimeconfig.dev.json
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.dll
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\bin\Debug\netcoreapp2.0\MyNoteItem.pdb
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.AssemblyInfoInputs.cache
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.AssemblyInfo.cs
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.csproj.CoreCompileInputs.cache
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.dll
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.pdb
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.genruntimeconfig.cache

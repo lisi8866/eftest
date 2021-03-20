@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NETCOREDemo",
+    "\\NETCOREDemo\\MyNoteItem\\Controllers",
+    "\\NETCOREDemo\\MyNoteItem\\Migrations",
+    "\\NETCOREDemo\\MyNoteItem\\Models",
+    "\\NETCOREDemo\\MyNoteItem\\Properties",
+    "\\NETCOREDemo\\MyNoteItem\\Repository",
+    "\\NETCOREDemo\\MyNoteItem\\Views",
+    "\\NETCOREDemo\\MyNoteItem\\Views\\Note"
   ],
+  "SelectedNode": "\\NETCOREDemo\\NETCOREDemo.sln",
   "PreviewInSolutionExplorer": false
 }

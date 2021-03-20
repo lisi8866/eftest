@@ -31,7 +31,8 @@ namespace MyNoteItem.Migrations
                     b.Property<DateTime>("Create");
 
                     b.Property<string>("Title")
-                        .IsRequired();
+                        .IsRequired()
+                        .HasMaxLength(100);
 
                     b.HasKey("Id");
 

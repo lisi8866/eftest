@@ -18,7 +18,7 @@ namespace MyNoteItem
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            var connection = @"Server=LAPTOP-OEENOHEO\LOCAL;DataBase=Note;UID=sa;PWD=sa123;";
+            var connection = @"Server=127.0.0.1;DataBase=Note;UID=9zhou;PWD=123@123;";
             services.AddDbContext<NoteContext>(options=>options.UseSqlServer(connection));
             services.AddScoped<INoteRepository, NoteRepository>();
 
