@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WoA6sCGldAQhnJYXTNNy58p31UzLz2yws/h1ykrdphYXVmgoyDp7hPjsaJT1txJBFeHAEd1s37mG8Xt50Ssm0Q==",
+  "dgSpecHash": "82SkXOW/IeIkclaHlPC5+8N1DasAV/+cIuFvUMZwqukTkqYs3zznp+zQLlNWQ/M7DTJlLPF2QgnK+8ko7+fr+w==",
   "success": true,
   "projectFilePath": "D:\\xiangmu\\2021\\EFTest\\NETCOREDemo\\MyNoteItem\\MyNoteItem.csproj",
   "expectedPackageFiles": [
@@ -172,6 +172,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.rest.clientruntime\\2.3.8\\microsoft.rest.clientruntime.2.3.8.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.rest.clientruntime.azure\\3.3.7\\microsoft.rest.clientruntime.azure.3.3.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.web.browserlink\\2.0.3\\microsoft.visualstudio.web.browserlink.2.0.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\2.0.4\\microsoft.visualstudio.web.codegeneration.2.0.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\2.0.4\\microsoft.visualstudio.web.codegeneration.contracts.2.0.4.nupkg.sha512",

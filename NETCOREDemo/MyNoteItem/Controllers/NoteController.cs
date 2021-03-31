@@ -56,6 +56,10 @@ namespace MyNoteItem.Controllers
                 Content=model.Content,
                 Create=DateTime.Now
             });
+
+
+         
+
             return RedirectToAction("Index");
         }
         

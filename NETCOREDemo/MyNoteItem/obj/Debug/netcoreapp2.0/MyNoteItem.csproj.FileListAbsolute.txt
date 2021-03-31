@@ -20,3 +20,4 @@ D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem
 D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.dll
 D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.pdb
 D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.genruntimeconfig.cache
+D:\xiangmu\2021\EFTest\NETCOREDemo\MyNoteItem\obj\Debug\netcoreapp2.0\MyNoteItem.csprojAssemblyReference.cache
