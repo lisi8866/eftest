@@ -42,6 +42,9 @@ namespace MyNoteItem.Controllers
         }
         public IActionResult Add()//添加页面
         {
+
+
+
             return View();
         }
         [HttpPost]

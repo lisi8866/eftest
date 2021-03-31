@@ -13837,11 +13837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\xiangmu\\2021\\EFTest\\NETCOREDemo\\MyNoteItem\\MyNoteItem.csproj",
+      "projectUniqueName": "D:\\xiangmu\\2021\\EFTest - 副本\\NETCOREDemo\\MyNoteItem\\MyNoteItem.csproj",
       "projectName": "MyNoteItem",
-      "projectPath": "D:\\xiangmu\\2021\\EFTest\\NETCOREDemo\\MyNoteItem\\MyNoteItem.csproj",
+      "projectPath": "D:\\xiangmu\\2021\\EFTest - 副本\\NETCOREDemo\\MyNoteItem\\MyNoteItem.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\xiangmu\\2021\\EFTest\\NETCOREDemo\\MyNoteItem\\obj\\",
+      "outputPath": "D:\\xiangmu\\2021\\EFTest - 副本\\NETCOREDemo\\MyNoteItem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

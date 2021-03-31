@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "82SkXOW/IeIkclaHlPC5+8N1DasAV/+cIuFvUMZwqukTkqYs3zznp+zQLlNWQ/M7DTJlLPF2QgnK+8ko7+fr+w==",
+  "dgSpecHash": "xsYAa+nrkvGUlyTlzAQ5MrtawKZ4BMeFxcm5UoxyRR0jPOYXoNMRaHTbq8rm1ElsrQHxNcRyK7CI0uZcnTOy0w==",
   "success": true,
-  "projectFilePath": "D:\\xiangmu\\2021\\EFTest\\NETCOREDemo\\MyNoteItem\\MyNoteItem.csproj",
+  "projectFilePath": "D:\\xiangmu\\2021\\EFTest - 副本\\NETCOREDemo\\MyNoteItem\\MyNoteItem.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",
