@@ -12,6 +12,9 @@ namespace MyNoteItem.Models
         [Key]
         [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)] // 主键自增id
         public int Id { get; set; }
+
+
+
         [Required]
         [MaxLength(100)]
 
